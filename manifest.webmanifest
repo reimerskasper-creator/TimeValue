@@ -1,19 +1,17 @@
-
 {
-  "id": "/timevalue/",
+  "id": "/TimeValue/",
   "name": "TIMEVALUE — Make Your Hours Count",
   "short_name": "TIMEVALUE",
-  "start_url": "/timevalue/",
-  "scope": "/timevalue/",
+  "start_url": "/TimeValue/",
+  "scope": "/TimeValue/",
   "display": "standalone",
   "background_color": "#0d171d",
   "theme_color": "#12232a",
   "icons": [
     {
-      "src": "/timevalue/icon.svg",
+      "src": "/TimeValue/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }
   ]
 }
-
