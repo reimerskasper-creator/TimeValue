@@ -1,8 +1,8 @@
 {
-  "id": "/TimeValue/",
+  "id": "/TimeValue/index.html",
   "name": "TIMEVALUE — Make Your Hours Count",
   "short_name": "TIMEVALUE",
-  "start_url": "/TimeValue/",
+  "start_url": "/TimeValue/index.html",
   "scope": "/TimeValue/",
   "display": "standalone",
   "background_color": "#0d171d",
