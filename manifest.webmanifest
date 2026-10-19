@@ -1,1 +1,19 @@
-{"name":"TIMEVALUE — Make your hours count","short_name":"TIMEVALUE","start_url":"./","scope":"./","display":"standalone","background_color":"#0d171d","theme_color":"#12232a","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
+
+{
+  "id": "/timevalue/",
+  "name": "TIMEVALUE — Make Your Hours Count",
+  "short_name": "TIMEVALUE",
+  "start_url": "/timevalue/",
+  "scope": "/timevalue/",
+  "display": "standalone",
+  "background_color": "#0d171d",
+  "theme_color": "#12232a",
+  "icons": [
+    {
+      "src": "/timevalue/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
